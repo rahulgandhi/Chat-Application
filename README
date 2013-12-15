@@ -16,7 +16,6 @@ Executing:
 
 1) Run the server by ./server
 2) Run the client by ./client
-	The client will ask you to input your name.
 
 Commands:
 1) list<space> : will show the list of connected users. The space after "list" is important, otherwise the client will go into an infinite loop. (Currently a bug)
